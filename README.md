@@ -1,2 +1,2 @@
 # MovieWebsite
-A simple webpage that displays information about my favourite movies along with their trailers.
+A simple program that displays a webpage containing information about my favourite movies along with their trailers.
